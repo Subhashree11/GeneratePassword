@@ -21,7 +21,7 @@ public class Password {
             val = 2;
         }
 
-        // Char is Digit
+        // Char is Number
         else if ((int) C >= 60 && (int) C <= 71) {
             val = 3;
         }
